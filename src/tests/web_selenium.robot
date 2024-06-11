@@ -1,3 +1,6 @@
+# Como executar
+# https://youtu.be/Ww6_8gAnWXo
+
 *** Settings ***
 Library           SeleniumLibrary
 

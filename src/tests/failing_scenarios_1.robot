@@ -1,4 +1,5 @@
-# Todo esse aquivo é uma SUITE DE TESTE / SCRIPT DE TESTE
+# Como executar
+# https://youtu.be/qqfACw7Q6XU
 
 *** Settings ***
 # Utilizado para importar bibliotecas/libs ou outros arquivos dentro do projeto

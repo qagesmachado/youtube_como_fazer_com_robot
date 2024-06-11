@@ -1,0 +1,6 @@
+robotframework==6.0.2
+robotframework-pythonlibcore==4.4.0
+robotframework-requests==0.9.4
+robotframework-seleniumlibrary==6.2.0
+robotframework-datadriver==1.11.2
+robotframework-excellib==2.0.1
