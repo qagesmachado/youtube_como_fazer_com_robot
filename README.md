@@ -10,10 +10,18 @@
   - https://docs.robotframework.org/docs/testcase_styles/datadriven
   - https://github.com/Snooz82/robotframework-datadriver
 
+- robotframework-csvlibrary==0.0.5
+  - https://rawgit.com/s4int/robotframework-CSVLibrary/master/doc/CSVLibrary.html
+
 - robotframework==6.0.2
-- robotframework-pythonlibcore==4.4.0
+  - https://robotframework.org/robotframework/latest/libraries/BuiltIn.html
+
 - robotframework-requests==0.9.4
+  - https://docs.robotframework.org/docs/different_libraries/requests`
+  - https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html
+
 - robotframework-seleniumlibrary==6.2.0
+  - https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
 
 - robotframework-excellib==2.0.1
   - https://rawgit.com/peterservice-rnd/robotframework-excellib/master/docs/ExcelLibrary.html

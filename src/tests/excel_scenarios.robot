@@ -7,7 +7,7 @@ Library    ExcelLibrary
 
 *** Variables ***
 
-${path}    ${EXECDIR}/support/excel_file.xlsx
+${path}    ${EXECDIR}/src/support/excel_file.xlsx
 
 *** Test Cases ***
 

@@ -4,3 +4,4 @@ robotframework-requests==0.9.4
 robotframework-seleniumlibrary==6.2.0
 robotframework-datadriver==1.11.2
 robotframework-excellib==2.0.1
+robotframework-csvlibrary==0.0.5
